@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+div#displaysArea{
+	width:200px;
+	height:350px;
+	border-color:#6699ff;
+	border-style:double;
+}
